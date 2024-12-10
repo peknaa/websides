@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: black;
+    color: aliceblue;
+    font-size: x-large;
+}
+
+
+
+#citace {
+    font-size: 16px;
+    font-family: "American Typewriter";
+}
+
+h1 {
+    color: teal;
+    font-family: "Al Nile";
+    text-underline: black dash-dot-dot-heavy;
+}
+
+a {
+    color: teal;
+}
+
+img {
+    border: teal solid 5px;
+    padding: 1em;
+    width: 40%;
+}
